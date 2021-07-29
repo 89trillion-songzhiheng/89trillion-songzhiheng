@@ -21,4 +21,4 @@
   3）GameObj：处理游戏对象
 
 **流程图**
-  
+  ![image](https://github.com/89trillion-songzhiheng/89trillion-songzhiheng/blob/master/picture/liuchengtu2.png)
