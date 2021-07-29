@@ -13,7 +13,7 @@
       3.使用Image进行图像渲染。
   prefab：
     1）Button: 根据货币类型设置两种类型的预制件。
-    2）Image：图像的基本预制件。
+    2）Image：每日精选与宝箱的预制件。
 
 **代码结构**
   1）Parsing JSON：负责解析json文件。
@@ -21,4 +21,4 @@
   3）GameObj：处理游戏对象
 
 **流程图**
-  流程图链接：
+  流程图链接： https://github.com/89trillion-songzhiheng/89trillion-songzhiheng/blob/master/picture/liuchengtu.png
